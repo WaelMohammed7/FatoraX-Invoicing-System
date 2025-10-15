@@ -82,7 +82,7 @@ The system follows a clean **3-Tier Architecture** ensuring separation of concer
 | ![Main Screen](screenshots/image9frmMainScreen.png) | ![Customer List](screenshots/image14formListCustomers.png) |
 | ![Login Screen](screenshots/image7frmSignIn.png)    | ![Add Customer](screenshots/image13formAddCustomer.png)    |
 | **Product Management**                              | **Invoice Management**                                     |
-| ![Product List](screenshots/image12ListProduct.jpg) | ![Add Invoice](screenshots/image15frmAddInvoice.png)       |
+| ![Product List](screenshots/image12ListProduct.png) | ![Add Invoice](screenshots/image15frmAddInvoice.png)       |
 | ![Add Product](screenshots/image11AddProduct.png)   | ![Invoice List](screenshots/image17frmAddInvoiceList.png)  |
 | **Sales Reports**                                   | **Print Preview**                                          |
 | ![Sales Report](screenshots/image21SalesReport.png) | ![Print Invoice](screenshots/image16pdf.png)               |
