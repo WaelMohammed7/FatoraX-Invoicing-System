@@ -1,0 +1,6 @@
+C:\Wael Projects C#\FatoraX Project\FX_DataAccess\bin\Debug\FX_DataAccess.dll
+C:\Wael Projects C#\FatoraX Project\FX_DataAccess\bin\Debug\FX_DataAccess.pdb
+C:\Wael Projects C#\FatoraX Project\FX_DataAccess\obj\Debug\FX_DataAccess.csproj.AssemblyReference.cache
+C:\Wael Projects C#\FatoraX Project\FX_DataAccess\obj\Debug\FX_DataAccess.csproj.CoreCompileInputs.cache
+C:\Wael Projects C#\FatoraX Project\FX_DataAccess\obj\Debug\FX_DataAccess.dll
+C:\Wael Projects C#\FatoraX Project\FX_DataAccess\obj\Debug\FX_DataAccess.pdb
